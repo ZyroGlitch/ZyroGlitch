@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm John Ford Buliag</h1>
 <h3 align="center">A passionate guy committed to continuous learning to become a software engineer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-NZ/view/developer-gif-23414225">
+<p align="center">
+  <img align="center" alt="Coding" width="100%" src="https://tenor.com/en-NZ/view/developer-gif-23414225">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyroglitch&label=Profile%20views&color=0e75b6&style=flat" alt="zyroglitch" /> </p>
 
