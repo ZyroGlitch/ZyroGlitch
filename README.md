@@ -46,8 +46,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="60" alt="github logo"  />
 </div>
-<br/>  
-
 
 ## Connect with me  
 <a href="https://github.com/ZyroGlitch" target="_blank">
@@ -62,12 +60,15 @@
 <a href="https://instagram.com/johnfordbuliag/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-<br/>  
 
-## Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyroglitch&show_icons=true&locale=en" alt="zyroglitch" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyroglitch&" alt="zyroglitch" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyroglitch&show_icons=true&locale=en&layout=compact" alt="zyroglitch" /></p>
+## 📊 My GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zyroglitch&show_icons=true&locale=en&theme=radical" alt="zyroglitch" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zyroglitch&show_icons=true&locale=en&layout=compact&theme=radical" alt="zyroglitch" height="195 !important" hspace="20"/>
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyroglitch&" alt="zyroglitch" />
+</p>
 
 
