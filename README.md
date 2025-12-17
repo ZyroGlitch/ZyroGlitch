@@ -63,8 +63,8 @@
 
 ## 📊 My GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyroglitch&show_icons=true&locale=en&theme=radical" alt="zyroglitch" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zyroglitch&show_icons=true&locale=en&layout=compact&theme=radical" alt="zyroglitch" height="195 !important" hspace="20"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zyroglitch&show_icons=true&locale=en&theme=radical" alt="zyroglitch" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zyroglitch&show_icons=true&locale=en&layout=compact&theme=radical" alt="zyroglitch" height="150" hspace="20"/>
 </p>
 
 <p align="left">
