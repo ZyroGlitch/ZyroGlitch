@@ -1,60 +1,51 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1p8wNPJ9JoeXsjvp6hrFfSttdVYAkroix/view?usp=sharing" align="center" style="width: 100%" />
+  <img src="https://raw.githubusercontent.com/ZyroGlitch/banner/refs/heads/main/Yellow%20and%20Blue%20Modern%20Elegant%20Marketing%20Expert%20LinkedIn%20Article%20Cover%20Image.png" align="center" style="width: 100%" />
 </div>
-
-
 
 ## About Me
-### *Hi there! 👋 I'm John Ford Buliag*
-### *A passionate guy committed to continuous <br/> learning to become a software engineer.*
+<h4> - 🎓 Studying at University of Mindanao </h4>
+<h4> - 🎓 Bachelor of Science in Computer Science </h4>
+<h4> - 🌱 Currently learning Data Engineer </h4>
 
-<img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif">
-
-- 🎓 Studying at [University of Mindanao](https://umindanao.edu.ph/)
-- 🌱 Currently learning Flutter and Laravel 11
-- 💡 Ask me about how to become a consistent learner
-- ⚡ Fun fact: I love coding challenges and watching anime
-- 👨‍💻 All of my projects are available at [https://github.com/ZyroGlitch](https://github.com/ZyroGlitch)
-- 📫 How to reach me **j.buliag.530734@umindanao.edu.ph**
-
-<br/> 
-<br/> 
-<br/> 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="left">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<h2 align="left">Data Engineering Tech Skills</h2>
+<div align="left">
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="60" alt="python logo"  />
 </div>
 
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="left">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<h2 align="left">Website Development Tech Skills</h2>
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="60" alt="css logo"  />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Mobile App  
-<div align="left">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<h2 align="left">Mobile Application Development Tech Skills</h2>
+<div align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="60" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="60" alt="firebase logo"  />
 </div>
 
-</td></tr></table>  
-
+<h2 align="left">Collaboration Tech Skills</h2>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="60" alt="github logo"  />
+</div>
 <br/>  
 
 
