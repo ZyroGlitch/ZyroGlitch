@@ -60,12 +60,28 @@
 
 ## 📊 My GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyroglitch&show_icons=true&locale=en&theme=radical" alt="zyroglitch" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zyroglitch&show_icons=true&locale=en&layout=compact&theme=radical" alt="zyroglitch" height="150" hspace="20"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ZyroGlitch&show_icons=true&theme=radical"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyroGlitch&layout=compact&theme=radical"
+    height="150"
+    hspace="20"
+  />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyroglitch&" alt="zyroglitch" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ZyroGlitch&theme=radical"
+  />
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZyroGlitch/ZyroGlitch/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZyroGlitch/ZyroGlitch/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZyroGlitch/ZyroGlitch/output/pacman-contribution-graph.svg">
+</picture>
 
 
